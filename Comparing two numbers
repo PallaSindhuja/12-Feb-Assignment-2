@@ -1,0 +1,29 @@
+'''
+
+                            Online Python Compiler.
+                Code, Compile, Run and Debug python program online.
+Write your code in this editor and press "Run" button to execute it.
+
+'''
+
+a=int(input("Enter a:"))
+b=int(input("Enter b:"))
+if a==b:
+    print("a is equal to b:")
+else:
+    print("a is not equal to b:")
+if a>b:
+    print("a is greater than b:")
+else:
+    print("a is lesser than b:")
+
+output:
+
+Enter a:24
+Enter b:25
+a is not equal to b
+a is lesser than b
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
